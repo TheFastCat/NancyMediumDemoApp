@@ -4,7 +4,7 @@ using System.Net.Http.Headers;
 using System.Web;
 using System.Web.Http;
 
-namespace WebApplication1.Areas.HelpPage
+namespace WebAPI.Areas.HelpPage
 {
     /// <summary>
     /// Use this class to customize the Help Page.
